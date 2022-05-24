@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=falso&vCenter=falso&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 <script src="https://gist.github.com/rxaviers/7360908.js"></script>
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    
