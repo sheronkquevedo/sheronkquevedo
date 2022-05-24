@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheron&theme=Sombrio&hide_border=falso&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+-->![banner (1)](https://user-images.githubusercontent.com/106162233/170052104-18193155-0267-4eba-8030-848aef49de41.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
